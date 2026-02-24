@@ -3,3 +3,5 @@ The following is a school project in Physics. shows projectile motion of an obje
 
 
 demo in https://adam01051.github.io/free_fall_simulator/
+js not working in demo  just  clone rep and try on localhost
+
